@@ -1,0 +1,25 @@
+body{
+		background-image:url(../images/home.png);
+		background-repeat: no-repeat; 
+		background-attachment: fixed;
+		background-size: 100% 100%;
+               
+	}
+.pstyle{
+	font-family: segoe UI;
+	font-weight: lighter;
+	text-align: left;
+}
+
+
+.ol{
+ 		background-color: green;
+ 		color: yellow;
+ 		list-style: none;
+ 		}
+
+ #ul{
+ 		background-color: green;
+ 		color: yellow;
+ 		list-style: none;
+ 		}

@@ -1,0 +1,36 @@
+body{
+		background-image:url();
+		background-repeat: no-repeat; 
+		background-attachment: fixed;
+		background-size: 100% 100%;
+               
+	}
+
+
+h1{
+ 		color: red;
+ 		list-style: none;
+ 		text-align: center;
+ 		}
+
+ p{
+ 		background-color: blue;
+ 		color: yellow;
+ 		list-style: none;
+ 		text-align: center;
+ 		}
+ ol{
+ 		background-color: white;
+ 		color: red;
+ 		list-style: none;
+ 		text-align: center;
+ 		}
+ ul{
+ 		background-color: pink;
+ 		color: yellow;
+ 		list-style: none;
+ 		}
+ img{
+
+ 	float: center;
+ }
